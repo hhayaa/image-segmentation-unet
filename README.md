@@ -1,6 +1,6 @@
 # Image Segmentation Demo — U‑Net / DeepLabV3
 
-Clean, minimal PyTorch repo for **semantic segmentation**. Two models included:
+ PyTorch repo for **semantic segmentation**. Two models included:
 - **U‑Net (from scratch)**
 - **DeepLabV3‑ResNet50** (from `torchvision`)
 
